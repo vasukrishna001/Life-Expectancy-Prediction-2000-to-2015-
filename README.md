@@ -2,8 +2,6 @@
 Data Intensive Computing Project ( cleaning, Preprocessing, Modeling)
 
 
-## Life Expectancy Analysis and Prediction (2000–2015)
-
 ## Overview
 This project analyzes global life expectancy trends from 2000 to 2015, using health, demographic, and economic data from a Kaggle dataset. The primary goal is to identify key factors influencing life expectancy and build predictive models to estimate it. By highlighting disparities between developed and developing countries, this project provides insights into improving global health outcomes.
 
